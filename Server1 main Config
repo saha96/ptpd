@@ -5,7 +5,7 @@
 ; ========================================================
 
 ; interface has to be specified
-ptpengine:interface=Ge0
+ptpengine:interface=ens33
 
 ; PTP domain
 ptpengine:domain=0
