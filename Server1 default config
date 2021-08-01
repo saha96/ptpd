@@ -1,0 +1,7 @@
+# /etc/default/ptpd
+
+# Set to "yes" to actually start ptpd automatically
+START_DAEMON=yes
+
+# Add command line options for ptpd
+PTPD_OPTS="-c /etc/ptpd.conf"
