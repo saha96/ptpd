@@ -1,5 +1,5 @@
 # ptpd: how to test ptpd service on linux
-This test was performed by Digt. (https://www.digt.ir/)
+This test was performed by Digt.
 
 let's go
 
